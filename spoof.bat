@@ -1,1 +1,1 @@
-mapper.exe spoofer.sys
+Uran.exe -spoofer true -sid 1
